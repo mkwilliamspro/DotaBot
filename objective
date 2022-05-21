@@ -1,0 +1,12 @@
+This will be the todo list for the DotaBot project
+
+ - Get player mmr/competitive information
+ - Get player top heroes
+ - Get matchID printout
+ - Learn how to format things all pretty like
+ - Get hero information
+ - Unnecessarily connect users to their own ID (Just because having a database is fun)
+ - Learn webhooks by auto-updating most recent game played in a channel (Maybe possible IDK)
+ - Get team roster && recent 5 matches
+ - Maybe get Major/TI information??
+ - Universal IO for exact stats client.out(API.get([user_input])
